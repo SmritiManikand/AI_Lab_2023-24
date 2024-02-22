@@ -1,8 +1,10 @@
 # Ex.No: 1  Implementation of Breadth First Search 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040157
+
 ### AIM: 
 To write a python program to implement Breadth first Search. 
+
 ### Algorithm:
 1. Start the program
 2. Create the graph by using adjacency list representation
@@ -12,7 +14,9 @@ To write a python program to implement Breadth first Search.
 6.  Creating loop to print the visited node.
 7.   Call the bfs function by passing arguments visited, graph and starting node.
 8.   Stop the program.
+
 ### Program:
+
 ```
 graph = {
  '5' : ['3','7'],
