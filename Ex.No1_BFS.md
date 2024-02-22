@@ -43,8 +43,7 @@ bfs(visited, graph, '5')
 
 ### Output:
 
-<img width="258" alt="s1" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/0a990b31-fa4f-47b2-9e87-dc3f7e5d0b21">
-
+<img width="284" alt="s2" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/cbbdc04e-e3dc-4ff5-88c9-20b3b23d2768">
 
 ### Result:
 Thus the breadth first search order was found sucessfully.
