@@ -38,4 +38,4 @@ dfs(visited, graph, '5')
 <img width="278" alt="s3" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/84710c03-b1ac-4f7f-87bb-53b122f413fd">
 
 ### Result:
-Thus the depth first search order was found sucessfully.
+Thus the depth first search order was found successfully.
