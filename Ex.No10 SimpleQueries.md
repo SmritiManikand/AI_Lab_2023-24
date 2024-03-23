@@ -32,6 +32,7 @@ eats(bill, peanuts).
 
 ### Output:
 
+<img width="478" alt="ex10a" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/a16b2b85-4790-40cd-8880-0eb4d3b47bfa">
 
 
 ### Task 2:
@@ -55,8 +56,7 @@ course(bk301,dept(havefun)).
 
 ### Output:
 
-
-
+<img width="479" alt="ex10b" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/8f8ce415-bef7-4bbe-be6e-faea1ee3fd19">
 
 ### Task 3:
 Consider the statement <br> 
