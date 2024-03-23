@@ -43,7 +43,7 @@ problem(blank_display).
 
 ### Output:
 
-<img width="959" alt="ex9" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/eaca662c-8fe5-4adf-9f04-ecd08a9d0d6e">
+<img width="475" alt="ex9" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/222cd266-5ae0-4cb6-8ff3-444202d29204">
 
 
 ### Result:
