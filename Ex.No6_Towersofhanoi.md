@@ -32,7 +32,7 @@ move(N,X,Y,Z) :-
 
 ### Output:
 
-<img width="475" alt="toh" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/4cfc833e-3d0c-4995-94c5-1cad5c7e1d32">
+<img width="959" alt="ex 6" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/8139ff18-fb33-417f-b299-315cda1b454d">
 
 ### Result:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
