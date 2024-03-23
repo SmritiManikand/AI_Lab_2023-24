@@ -50,7 +50,7 @@ symptom(raju,sore_throat).
 
 ### Output:
 
-<img width="959" alt="ex8" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/a3c12bf3-0563-45d9-b263-647e5c47f2ba">
+<img width="473" alt="ex8" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/464b5c94-c3d4-4488-afdf-0024627d3ae4">
 
 
 ### Result:
