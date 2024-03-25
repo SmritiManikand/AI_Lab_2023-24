@@ -45,7 +45,11 @@ halfsubtractor(A,B,Diff,Bo):-
 
 ### Output:
 
+HALF ADDER
+
 <img width="479" alt="s1" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/09b3f67f-b7e6-47a1-b3a4-8f844d0331dd">
+
+HALF SUBTRACTOR
 
 <img width="478" alt="s2" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/7774a360-2c84-417a-9652-2b2e4ac1a334">
 
