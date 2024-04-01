@@ -17,9 +17,10 @@ Step 10 : Obtain the plan for given problem.<br>
      
 ### Program:
 
-```
-BLOCK WORLD DOMAIN
 
+### BLOCK WORLD DOMAIN
+
+```
 (define (domain blocksworld)
 (:requirements :strips :equality)
 (:predicates (clear ?x)
@@ -53,7 +54,7 @@ BLOCK WORLD DOMAIN
 
 ### Input 
 
-PROBLEM 1
+### PROBLEM 1
 
 ```
 (define (problem pb1)
@@ -61,9 +62,11 @@ PROBLEM 1
    (:objects a b)
    (:init (on-table a) (on-table b)  (clear a)  (clear b) (arm-empty))
    (:goal (and (on a b))))
+```
 
-PROBLEM 2
+### PROBLEM 2
 
+```
 (define (problem pb2)
    (:domain blocksworld)
    (:objects a b c)
@@ -73,7 +76,7 @@ PROBLEM 2
 
 ### Output/Plan:
 
-PROBLEM 1
+### PROBLEM 1
 
 OUTPUT 1
 
@@ -84,7 +87,7 @@ OUTPUT 2
 <img width="303" alt="s2" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/655240e7-a3d2-4feb-bd7d-9d4fadb9d77f">
 
 
-PROBLEM 2
+### PROBLEM 2
 
 OUTPUT 1
 
