@@ -1,6 +1,6 @@
 # Ex.No: 11  Planning –  Monkey Banana Problem
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 30.03.2024                                                                          
+### REGISTER NUMBER : 212221040157
 ### AIM: 
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 ###  Algorithm:
@@ -67,11 +67,52 @@ Step 7: Stop the program.<br>
 ```
 
 ### Input 
- PROBLEM 1
 
- 
+### PROBLEM 1
+
+```
+(define (problem pb1)
+    	(:domain monkey)
+  	(:objects p1 p2 p3 p4 bananas monkey box knife)
+  	(:init (location p1)
+		(location p2)
+		(location p3)
+		(location p4)
+	 	(at monkey p1)
+		(on-floor)
+		(at box p2)
+		(at bananas p3)
+	 	(at knife p4)
+	)
+  	(:goal (and (hasbananas)))
+)
+```
+
 ### Output/Plan:
 
+OUTPUT 1
+
+<img width="359" alt="s1" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/0aa0e0ca-a3b0-4544-8224-e4963e2549d1">
+
+OUTPUT 2
+
+<img width="348" alt="s2" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/2e365c0a-4a4a-4167-8a4a-b40bebb975aa">
+
+OUTPUT 3
+
+<img width="338" alt="s3" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/db699417-7172-4833-b70a-d4ea4c411827">
+
+OUTPUT 4
+
+<img width="365" alt="s4" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/823eae46-84db-4b51-a004-03cd875300f8">
+
+OUTPUT 5
+
+<img width="344" alt="s5" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/4a9d1de0-d219-4332-ba73-63d86518d5c8">
+
+OUTPUT 6
+
+<img width="346" alt="s6" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/93d3ac05-4a50-4722-9a6a-c1c1ee9cf14b">
 
 
 ### Result:
