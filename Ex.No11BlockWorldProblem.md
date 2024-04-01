@@ -49,8 +49,13 @@ BLOCK WORLD DOMAIN
   :effect (and (holding ?ob) (clear ?underob)
                (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 
+```
+
+### Input 
+
 PROBLEM 1
 
+```
 (define (problem pb1)
    (:domain blocksworld)
    (:objects a b)
@@ -64,11 +69,32 @@ PROBLEM 2
    (:objects a b c)
    (:init (on-table a) (on-table b) (on-table c) (clear a) (clear b) (clear c) (arm-empty))
    (:goal (and (on a b) (on b c))))
-
-### Input 
+```
 
 ### Output/Plan:
 
+PROBLEM 1
+
+
+<img width="338" alt="s1" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/dae8d48d-3014-4c07-b867-4f357e1439cc">
+
+
+<img width="303" alt="s2" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/655240e7-a3d2-4feb-bd7d-9d4fadb9d77f">
+
+
+PROBLEM 2
+
+
+<img width="323" alt="s3" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/01647848-ad83-4da6-abb1-c621318c87b1">
+
+
+<img width="302" alt="s4" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/e11f982f-11df-46eb-8a2d-6e9913456624">
+
+
+<img width="322" alt="s5" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/e610c060-5c2c-4257-aec1-04cbbb6f8650">
+
+
+<img width="323" alt="s6" src="https://github.com/SmritiManikand/AI_Lab_2023-24/assets/113674204/185622cf-4418-4c81-aa32-9f1185a1cb2a">
 
 
 ### Result:
